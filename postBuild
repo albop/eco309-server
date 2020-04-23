@@ -1,4 +1,0 @@
-conda install -y -c conda-forge nodejs
-conda update -y nodejs
-echo `which jupyter`
-# julia -e 'using WebIO; WebIO.install_jupyter_labextension(`/srv/conda/envs/notebook/bin/jupyter`)'
